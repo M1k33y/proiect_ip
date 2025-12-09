@@ -1,4 +1,4 @@
-==================================
+
 PYTHON TASK MANAGER – OFFICIAL REQUIREMENT VERSION
 Complete Beginner-Friendly Roadmap (Console + Optional UI)
 ==================================
@@ -284,4 +284,5 @@ Students must submit:
 ==============================================================
 END OF DOCUMENT
 ==============================================================
+
 
